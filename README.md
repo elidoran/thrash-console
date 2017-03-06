@@ -12,7 +12,7 @@ npm install @thrash/console --save-dev
 
 ## Usage
 
-See [@thrash/core](https://github.com/elidoran/thrash-core) to learn how the basics work.
+See [@thrash/fn](https://github.com/elidoran/thrash-fn) to learn how the basics work.
 
 ```javascript
 var thrash = require('@thrash/fn')
