@@ -1,0 +1,20 @@
+{
+  "name": "@thrash/console",
+  "version": "0.1.0",
+  "description": "Outputs thrash results to console in a table.",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Doran <eli+npm@elidoran.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.12.4",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "comma-number": "^1.1.0",
+    "pad": "^1.1.0"
+  }
+}
